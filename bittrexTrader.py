@@ -3,8 +3,8 @@ import hmac
 import hashlib
 
 market = "BTC-LTC"
-key = "1e105f4e2d3f4155847c12f632d3abc5"
-secret = "323163c8eb71447e97b572fd4a588e44"
+key = "1e105f4e2d3f4155847c12f632d3abc5" # This is inactive
+secret = "323163c8eb71447e97b572fd4a588e44" # This is inactive
 nonce = str(4658210)
 quantity = str(1.00000000)
 rate = str(.00050000)
